@@ -1,0 +1,26 @@
+group	label	showSelected1
+1	Cluster 56: 140/8116 pixels shown, logFC -4.6 to 4.9, log10(p) 0.0 to 4.4	56
+1	Cluster 105: 1178/4784 pixels shown, logFC -5.1 to 4.6, log10(p) 0.0 to 3.9	105
+1	Cluster 135: 1161/4207 pixels shown, logFC -5.4 to 4.4, log10(p) 0.0 to 5.0	135
+1	Cluster 148: 299/755 pixels shown, logFC -4.7 to 4.6, log10(p) 0.0 to 2.9	148
+1	Cluster 244: 1321/3164 pixels shown, logFC -4.7 to 4.6, log10(p) 0.0 to 3.4	244
+1	Cluster 313: 389/799 pixels shown, logFC -4.2 to 3.9, log10(p) 0.0 to 3.0	313
+1	Cluster 508: 29/29 pixels shown, logFC -3.8 to 3.6, log10(p) 0.0 to 1.9	508
+1	Cluster 792: 9/9 pixels shown, logFC -3.5 to -0.4, log10(p) 0.1 to 1.3	792
+1	Cluster 891: 11/22 pixels shown, logFC 0.3 to 3.3, log10(p) 0.2 to 1.7	891
+1	Cluster 1235: 5/41 pixels shown, logFC -2.1 to 4.2, log10(p) 0.0 to 2.0	1235
+1	Cluster 1269: 29/29 pixels shown, logFC -4.2 to -0.0, log10(p) 0.0 to 2.0	1269
+1	Cluster 1307: 36/204 pixels shown, logFC -3.8 to 4.6, log10(p) 0.0 to 2.6	1307
+1	Cluster 1332: 52/163 pixels shown, logFC -4.0 to 3.6, log10(p) 0.0 to 1.8	1332
+1	Cluster 1385: 12/58 pixels shown, logFC -4.0 to 0.1, log10(p) 0.0 to 2.4	1385
+1	Cluster 1529: 14/50 pixels shown, logFC -3.8 to 1.4, log10(p) 0.0 to 1.5	1529
+1	Cluster 1566: 56/56 pixels shown, logFC -3.8 to 3.3, log10(p) 0.0 to 1.5	1566
+1	Cluster 1808: 7/7 pixels shown, logFC -3.5 to -1.8, log10(p) 0.4 to 1.3	1808
+1	Cluster 1843: 42/42 pixels shown, logFC -0.5 to 4.2, log10(p) 0.0 to 2.0	1843
+1	Cluster 1936: 9/9 pixels shown, logFC -3.8 to -0.4, log10(p) 0.2 to 1.5	1936
+1	Cluster 2086: 11/11 pixels shown, logFC -3.1 to -1.0, log10(p) 0.4 to 1.0	2086
+1	Cluster 2126: 7/13 pixels shown, logFC -3.1 to -0.6, log10(p) 0.2 to 1.0	2126
+1	Cluster 2317: 7/7 pixels shown, logFC 0.9 to 3.3, log10(p) 0.2 to 1.1	2317
+1	Cluster 2669: 3/3 pixels shown, logFC 2.7 to 3.6, log10(p) 0.8 to 1.4	2669
+1	Cluster 2951: 9/9 pixels shown, logFC 1.0 to 3.6, log10(p) 0.4 to 1.4	2951
+1	Cluster 3253: 3/3 pixels shown, logFC -3.8 to -2.6, log10(p) 0.7 to 1.5	3253
